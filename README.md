@@ -1,4 +1,3 @@
-[![HitCount](https://hits.dwyl.com/Bakry13/PlaywrightFramework.svg?style=flat-square)](http://hits.dwyl.com/Bakry13/PlaywrightFramework)
 # BDD Framework
 
 *- This project is a base project to build a solid test automation framework using selenium test automation tool and java programming language.*
